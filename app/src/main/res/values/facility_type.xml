@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="facility_type">
+        <item>Hospital</item>
+        <item>Health Center</item>
+        <item>Therapeutic Feeding unit</item>
+    </string-array>
+
+</resources>

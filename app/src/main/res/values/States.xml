@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="states">
+        <item>Abia</item>
+        <item>Adamawa</item>
+        <item>Akwa Ibom</item>
+        <item>Anambra</item>
+        <item>Bauchi</item>
+        <item>Benue</item>
+        <item>Borno</item>
+        <item>Bayelsa</item>
+        <item>Cross River</item>
+        <item>Delta</item>
+        <item>Ebonyi</item>
+        <item>Edo</item>
+        <item>Ekiti</item>
+        <item>Enugu</item>
+        <item>Abuja</item>
+        <item>Gombe</item>
+        <item>Jigawa</item>
+        <item>Imo</item>
+        <item>Kaduna</item>
+        <item>Kebbi</item>
+        <item>Kano</item>
+        <item>Kogi</item>
+        <item>Lagos</item>
+        <item>Kwara</item>
+        <item>Nasarawa</item>
+        <item>Niger</item>
+        <item>Ogun</item>
+        <item>Ondo</item>
+        <item>Rivers</item>
+        <item>Oyo</item>
+        <item>Osun</item>
+        <item>Sokoto</item>
+        <item>Plateau</item>
+        <item>Taraba</item>
+        <item>Yobe</item>
+        <item>Zamfara</item>
+    </string-array>
+
+</resources>
